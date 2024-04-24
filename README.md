@@ -31,3 +31,10 @@ Overall, this solution aims to streamline the process of finding suitable medica
 13. Run command npm start.
 14. The frontend will start to run on localhost:3000.
 15. Now Fill the form and enter the symptoms and your disease will be predicted along with a list of Precautions,Dietary list and Medications.
+
+
+<h1>Demo</h1>
+
+https://drive.google.com/file/d/1E0H9r6KglYAZGNdy1C7KiHdhhsjJBtiJ/view?usp=sharing
+
+
