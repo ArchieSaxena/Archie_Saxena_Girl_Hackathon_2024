@@ -1,0 +1,40 @@
+.container {
+  height: 90vh;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-image: url(../../assets/backgroundImage.jpg);
+  background-size: cover;
+  background-position: center;
+  /* background-color: aqua; */
+  position: relative;
+}
+.innercontainer {
+  height: 45vh;
+  width: 40%;
+  position: absolute;
+  /* background-color: blue; */
+  margin-top: 20vh;
+  margin-left: 54%;
+}
+.y {
+  margin-top: -2rem;
+}
+.data {
+  text-align: center;
+  margin-top: 10%;
+}
+.innerData {
+  margin-top: 0.2rem;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+}
+.heading {
+  margin-top: -4rem;
+  text-transform: uppercase;
+  /* text-align: center; */
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 2px;
+  font-size: 4rem;
+  /* margin-top: 20%; */
+}
