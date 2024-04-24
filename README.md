@@ -12,12 +12,6 @@ Regarding access to a meaningful dataset and technical expertise, our team has i
 By leveraging advanced algorithms, the system will analyze user data to tailor personalized medication and dietary plans, while also providing essential precautions to mitigate risks effectively. This holistic approach aims to not only predict and manage diseases but also empower users with actionable insights for optimal health management.
 Overall, this solution aims to streamline the process of finding suitable medical care, ultimately improving patient outcomes and satisfaction.
 
-HealthHub Connect would be impactful for:
-1.Individuals seeking convenient access to healthcare guidance
-2.Those looking for personalized health recommendations
-3.People in need of reliable and trustworthy health information
-4.Individuals navigating the complexities of the healthcare landscape
-5.Patients managing chronic conditions or seeking preventive care
 
 
 <h1>Setup of local environment</h1>
