@@ -21,13 +21,13 @@ Overall, this solution aims to streamline the process of finding suitable medica
 3. All the data used for training and testing the models is in the Healthcare-GGHK(datasets).
 4. Run the jupyter notebook GGHK.ipynb
 5. The model is saved in svc.pkl
-6. Navigate to server repository.
+6. Navigate to Healthcare-GGHK folder.
 7. Create a virtual evironment by “python3 -m venv venv”
-8. Now activate the virtual environment by “source venv/bin/activate”
+8. Now activate the virtual environment by “source venv/bin/activate” OR run "pip install -r requirements.txt" to install all dependencies required for this project.
 9. Run command “python3 main.py”
 10. The backend will start to run on localhost:5000/api/predict
-11. Naviagte to server repository.
-12. First install all dependencies by running “npm I”.
+11. Navigate to client folder.
+12. First install all dependencies by running “npm i”.
 13. Run command npm start.
 14. The frontend will start to run on localhost:3000.
 15. Now Fill the form and enter the symptoms and your disease will be predicted along with a list of Precautions,Dietary list and Medications.
